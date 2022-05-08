@@ -9,9 +9,6 @@ I am a versatile freelance erotica author with experience in many genres. If you
 
 We also produce art! On board with me is a very capable 3D artist. Together, we create illustrated novels and comics.
 
-### Free Stories and Art
-[View](/content.md)
-
 ### Contact and Links
 harmonymotionfiction@gmail.com  
 Discord: harmonymotion#2098  
