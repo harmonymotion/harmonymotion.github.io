@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: HarmonyMotion Story and Art
+subtitle: Writer and 3D artist for hire
 ---
+Hello!
 
-My name is Inigo Montoya. I have the following qualities:
+I am a versatile freelance erotica author with experience in many genres. If you want a personalized sexy story that pushes all your buttons, I can write it. I've also written fiction/fantasy without an erotica bent!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+We also produce art! On board with me is a very capable 3D artist. Together, we create illustrated novels and comics.
 
-What else do you need?
+### Free Stories and Art
+[View now!](/content.md)
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Contact and Links
+harmonymotionfiction@gmail.com  
+Discord: harmonymotion#2098  
+[DeviantArt](https://www.deviantart.com/harmonymotion)  
+[Patreon](https://www.patreon.com/harmonymotion)  
+[Gumroad](https://harmonymotion.gumroad.com)  

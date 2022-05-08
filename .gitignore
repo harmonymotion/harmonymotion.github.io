@@ -11,3 +11,9 @@ ehthumbs.db
 Gemfile.lock
 
 beautiful-jekyll-theme-*.gem
+._config.yml.un~
+_config.yml~
+.index.html.un~
+.aboutme.md.un~
+aboutme.md~
+index.html~
