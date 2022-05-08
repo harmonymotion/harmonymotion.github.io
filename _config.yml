@@ -15,6 +15,7 @@ author: HarmonyMotion
 
 navbar-links:
   About Me: "aboutme"
+  Commission Us: "commission"
   Works:
     - Stories: "content/stories"
     - Art: "content/art"
@@ -60,7 +61,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-  discord: users/harmonymotion#2098
+  discord: invite/GEWKANC87g
 #  kaggle: yourname
 #  hackerrank: yourname
 
