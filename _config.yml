@@ -15,9 +15,9 @@ author: HarmonyMotion
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Works:
+    - Stories: "content/stories"
+    - Art: "content/art"
 
 # --- Logo --- #
 
@@ -60,7 +60,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-  discord: harmonymotion#2098
+  discord: users/harmonymotion#2098
 #  kaggle: yourname
 #  hackerrank: yourname
 
