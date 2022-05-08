@@ -17,3 +17,5 @@ _config.yml~
 .aboutme.md.un~
 aboutme.md~
 index.html~
+*.md~
+*.un~
