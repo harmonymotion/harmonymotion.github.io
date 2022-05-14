@@ -14,8 +14,8 @@ author: HarmonyMotion
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Commission Us: "commission"
+  About: "aboutme"
+  Commission: "commission"
   Works:
     - Stories: "content/stories"
     - Art: "content/art"
