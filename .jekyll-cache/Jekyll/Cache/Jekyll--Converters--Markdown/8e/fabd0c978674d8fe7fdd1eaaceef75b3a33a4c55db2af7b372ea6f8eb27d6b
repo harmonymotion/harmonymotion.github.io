@@ -1,4 +1,4 @@
-I"ã
+I"ö
 <!-- Featured
 ================================================== -->
 <section class="featured-posts">
@@ -21,7 +21,7 @@
                     <div class="wrapthumbnail">
                         <a href="/customer-service/">
                             
-                            <img class="featured-box-img-cover" src="/assets/images/00.png" />
+                            <img class="featured-box-img-cover lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/assets/images/00.png" />
                             
                         </a>
                     </div>
@@ -91,7 +91,7 @@
                 
 
                     
-                        <img class="img-fluid" src="/assets/images/00.png" alt="Test" /> 
+                        <img class="img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/assets/images/00.png" alt="Test" />
                     
 
                 
