@@ -20,3 +20,9 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.7"
+
+source 'https://rubygems.org'
+gem 'nokogiri'
+gem 'rack', '~> 2.0.1'
+gem 'rspec'
+

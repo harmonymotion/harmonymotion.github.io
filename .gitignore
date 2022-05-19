@@ -19,3 +19,4 @@ aboutme.md~
 index.html~
 *.md~
 *.un~
+.jekyll-cache*
