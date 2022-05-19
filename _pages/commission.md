@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to commission
+title: All about commissions
 permalink: /commission
 subtitle: It's painless, really!
 ---
