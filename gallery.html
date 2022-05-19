@@ -1,0 +1,30 @@
+---
+layout: page
+title: Gallery
+---
+
+<!-- Posts Index
+================================================== -->
+
+Here is a sample portfolio of our art. The official work is done in beautiful high definition!
+
+    <div class="row listrecent image-gallery">
+	{% for image in site.static_files %}
+	    {% if image.path contains 'portfolio/gallery' %}
+			<a href="{{ image.path | relative_url }}" title="{{ filename }}">
+				<img class="img-gallery" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+			</a>
+	    {% endif %}
+	{% endfor %}
+			</div>
+    </div>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>
+

@@ -22,6 +22,16 @@ authors:
   #  twitter: https://twitter.com/wowthemesnet
     description: ""
 
+defaults:
+  - scope:
+      path: "portfolio/gallery"
+    values:
+      image: true
+  - scope:
+      path: "portfolio/library"
+    values:
+      story: true
+
 
 # Plugins
 plugins:
