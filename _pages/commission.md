@@ -52,7 +52,7 @@ We charge half upfront and half upon completion.
 > I like seeing my ideas coming to life, but liking it more when we both enjoy it. I'm glad to have chosen harmonymotion to write up my idea and hope to hire them once more in the future 🙂  
 - danio13
 
-> It was an amazing experience. HM is a super-fast writer and will make everything as close as possible to the request. If you’re thinking about bringing your story idea into reality, I highly recommend commissioning him. I even got a 3d image for my story.  
+> It was an amazing experience. HM is a super-fast writer and will make everything as close as possible to the request. If you’re thinking about bringing your story idea into reality, I highly recommend commissioning them. I even got a 3d image for my story.  
 - frostcz
 
 > So far working with Harmonymotion in my commission has been a very enjoyable experience. Very professional and always available to talk about how to improve the story.
@@ -61,3 +61,6 @@ We charge half upfront and half upon completion.
 
 > I’ve done a few commissions with Harmonymotion; they pays close attention to what you want in your story. HM is very detailed and will do it with no judgment. All in all it has been a pleasant experience. Definitely recommend it.
 - The Penguin
+
+> "Works fast, reliably communicates, and is the best writer I have ever worked with. Overall, definitely worth your time."
+- OmniScribbler

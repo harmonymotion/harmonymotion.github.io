@@ -16,7 +16,7 @@
 	padding-bottom: 8px;
 }
 
-img {
+img.story-cover {
 	object-fit: cover;
 	float: left;
 	padding: 15px;
