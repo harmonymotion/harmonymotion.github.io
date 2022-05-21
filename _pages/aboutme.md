@@ -1,6 +1,7 @@
 ---
 layout: page
 title: HarmonyMotion Story and Art
+permalink: /about
 subtitle: Writer and 3D artist for hire
 ---
 Hello!
