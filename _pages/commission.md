@@ -4,11 +4,17 @@ title: All about commissions
 permalink: /commission
 subtitle: It's painless, really!
 ---
+* TOC
+{:toc}
+
+## Why commission?
+Because you like erotica stories, but can't find anything that *really* suits your personal preferences... or just because you want to!  
+I am here to satisfy your kinks, and I do not judge anyone's preferences (though I do reserve the right to decline any request.) You will be part of the creative process, guiding me to create a piece of work for you to enjoy forever, and as long as you do not wish to remain anonymous, your name will be attached to the final product as well!
 
 ## So you want a commission
 Great! I am very easy to get along and work with. Here's what to do:
 
-Contact me on [Discord](https://discord.gg/GEWKANC87g) or email [harmonymotionfiction@gmail.com](mailto:harmonymotionfiction@gmail.com)
+Contact me on [Discord](https://discord.gg/GEWKANC87g){:target="_blank" rel="noopener"} or email [harmonymotionfiction@gmail.com](mailto:harmonymotionfiction@gmail.com){:target="_blank" rel="noopener"}
 
 ### Writing
 1. Let me know what kind of story you want.
@@ -21,20 +27,20 @@ Contact me on [Discord](https://discord.gg/GEWKANC87g) or email [harmonymotionfi
 6. Enjoy the finished product!
 
 ### Art
-Give me as much detail as possible. How the character looks physically (eye color, face shape, hair color, body shape, lips, nose, everything... mold it all to your desire.) What is he or she wearing? Details, details, details.
+1. Give me as much detail as possible.
+- How the character looks physically (eye color, face shape, hair color, body shape, lips, nose, everything... mold it all to your desire.)
+- What is he or she wearing? Details, details, details.
+- Pose, scenery, expression.
+2. We will generate a preview for you to examine.
+- Now is the time to be picky! Whatever you are unsatisfied with, let us know and we will try to make it right for you!
+3. If you are okay with it, we produce the final piece of art.
+- We are willing to accommodate one or two small changes at this stage, but more than that will cost extra.
 
-Pose, scenery, expression.
-
-We will generate a preview for you to examine.
-
-If you are okay with it, we produce the final piece of art.
-
-**If you want any changes, the time to call it out is during the preview phase! We will accommodate changes after the final piece is complete, but excessive tweaks will cost more!**
-
+### Rights
 We own and retain the rights to our work.
 
 ### Prices
-Story: 4-5c a word. Rate varies depending on content.
+Story: 4-5c a word. Rate varies depending on content. If you're uncertain but still interested, don't be shy! Reach out to me, and I will help :)
 Art: $30 an image, plus $10 for initial creation of model.
 
 We charge half upfront and half upon completion.
