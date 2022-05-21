@@ -1,6 +1,6 @@
 ---
 layout: story
-title: "Dressed for the Occassion"
+title: "Dressed for the Occasion"
 categories: [ Omnipotence, Ascension, FemDom ]
 tags: [ omni, f2ftf, orgasm denial, femdom, ascension, gentle, genie, wish fulfillment, costume, beautydom ]
 cover: /portfolio/gallery/Dressed-for-the-Occasion.png
