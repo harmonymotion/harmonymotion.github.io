@@ -68,5 +68,5 @@ We charge half upfront and half upon completion.
 > I’ve done a few commissions with Harmonymotion; they pays close attention to what you want in your story. HM is very detailed and will do it with no judgment. All in all it has been a pleasant experience. Definitely recommend it.
 - The Penguin
 
-> "Works fast, reliably communicates, and is the best writer I have ever worked with. Overall, definitely worth your time."
+> Works fast, reliably communicates, and is the best writer I have ever worked with. Overall, definitely worth your time.
 - OmniScribbler
