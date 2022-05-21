@@ -12,7 +12,7 @@
 	padding: 50px;
 	object-fit: contain;
 	transform: scale(1);
-	transition: 2s;
+	transition: .5s;
 
 }
 .img-gallery:hover {
