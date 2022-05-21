@@ -27,11 +27,10 @@ defaults:
       path: "portfolio/gallery"
     values:
       image: true
-  - scope:
-      path: "portfolio/library"
-    values:
-      story: true
 
+collections:
+  stories: 
+    output: true
 
 # Plugins
 plugins:

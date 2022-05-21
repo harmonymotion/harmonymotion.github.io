@@ -58,3 +58,6 @@ We charge half upfront and half upon completion.
 > So far working with Harmonymotion in my commission has been a very enjoyable experience. Very professional and always available to talk about how to improve the story.
 > I love the ideas that have been introduced and very much appreciate the comments and critique of the ideas that sound good in my head, but wouldn't work that well in practice. This is the type of talent and honesty that everyone looking to commission a good story should look for in a writer.  
 - ZaikerWriter
+
+> I’ve done a few commissions with Harmonymotion; they pays close attention to what you want in your story. HM is very detailed and will do it with no judgment. All in all it has been a pleasant experience. Definitely recommend it.
+- The Penguin

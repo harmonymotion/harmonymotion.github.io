@@ -1,18 +1,60 @@
 ---
 layout: page
-title: Portfolio
+title: Library
 ---
 
+<head>
+
+<link href="{{ site.baseurl }}/assets/css/library.css" rel="stylesheet">
+
+</head>
 
 <!-- Posts Index
 ================================================== -->
 <section class="recent-posts">
 
-    <div class="section-title">
+    <div class="row listrecent">
+	{% for story in site.stories %}
+		<div id="story">
+			<a href="{{ story.url }}" title="{{ story.title }}">
+				<img class="story-cover" src="{{ story.cover }}"/>
+			</a>
+			<a href="{{ story.url }}" title="{{ story.title }}">
+				<h2 class="story-title" src="{{ site.baseurl }}{{ story.path }}" >{{ story.title }}</span></h2>
+			</a>
+			<div><span class="story-blurb">{{ story.blurb }}</span></div>
+            <!-- Post Categories -->
+            <div class="after-post-cats">
+                <ul class="tags mb-4">
+										<span>Categories: </span>
+                    {% assign sortedCategories = story.categories | sort %}
+                    {% for category in sortedCategories %}
+                    <li>
+                        <a class="smoothscroll" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <!-- End Categories -->
 
-        <h2><span>Coming soon!</span></h2>
-
+            <!-- Post Tags -->
+            <div class="after-post-tags">
+                <ul class="tags">
+										<span>Tags: </span>
+                    {% assign sortedTags = story.tags | sort %}
+                    {% for tag in sortedTags %}
+                    <li>
+                        <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+				</div>
+			<!-- End Tags -->
+	{% endfor %}
+			</div>
     </div>
+
 
     <div class="row listrecent">
 

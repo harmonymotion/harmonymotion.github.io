@@ -1,0 +1,45 @@
+.story-cover {
+	width: 200px;
+	height: auto;
+}
+
+.story-title {
+}
+
+.story-blurb {
+}
+
+#story {
+	border-bottom-width: 2px;
+	border-bottom-color: grey;
+	border-bottom-style: solid;
+	padding-bottom: 8px;
+}
+
+img {
+	object-fit: cover;
+	float: left;
+	padding: 15px;
+}
+
+.after-post-cats {
+	clear: left;
+	display: block;
+}
+
+ul.tags {
+	margin: 0px;
+}
+
+.mb-4 {
+	margin-bottom: 0px !important;
+}
+
+hr {
+  border: 0;
+  clear:both;
+  display:block;
+  width: 96%;
+  background-color:#FFFF00;
+  height: 1px;
+}

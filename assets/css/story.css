@@ -1,0 +1,17 @@
+/* story layout */
+
+.container {
+	max-width: 90%;
+}
+
+.col-md-9 {
+  max-width: 120%;
+}
+
+.article-post {
+	font-size: .9rem;
+}
+
+hr {
+  border: 3px solid gray;
+}
