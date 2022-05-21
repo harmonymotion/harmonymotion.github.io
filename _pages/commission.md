@@ -8,7 +8,7 @@ subtitle: It's painless, really!
 ## So you want a commission
 Great! I am very easy to get along and work with. Here's what to do:
 
-Contact me on discord (harmonymotion#2098) or email (harmonymotionfiction@gmail.com)
+Contact me on [Discord](https://discord.gg/GEWKANC87g) or email [harmonymotionfiction@gmail.com](mailto:harmonymotionfiction@gmail.com)
 
 ### Writing
 1. Let me know what kind of story you want.
