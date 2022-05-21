@@ -40,7 +40,7 @@ Contact me on [Discord](https://discord.gg/GEWKANC87g){:target="_blank" rel="noo
 We own and retain the rights to our work.
 
 ### Prices
-Story: 4-5c a word. Rate varies depending on content. If you're uncertain but still interested, don't be shy! Reach out to me, and I will help :)
+Story: 4-5c a word ($40-$50 per thousand words.) Rate varies depending on content. If you're uncertain but still interested, don't be shy! Reach out to me, and I will help :)
 Art: $30 an image, plus $10 for initial creation of model.
 
 We charge half upfront and half upon completion.
