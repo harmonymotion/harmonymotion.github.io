@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Library and Gallery mostly functional!"
-categories: [ site update ]
-tags: [ site update ]
+categories: [ ]
+tags: [ ]
 image: 
 description: ""
 featured: false

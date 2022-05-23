@@ -513,7 +513,7 @@ ul.tags li a {
     background: rgba(0, 0, 0, .05);
     color: rgba(0, 0, 0, .6);
     border-radius: 3px;
-    padding: 5px 10px;
+    padding: 0px 10px;
 }
 
 ul.tags li a:hover {
