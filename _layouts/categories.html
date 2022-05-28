@@ -1,23 +1,84 @@
 ---
-title: "Categories"
-layout: default
-permalink: "/categories.html"
+layout: page
+title: Stories by Category
+permalink: /categories.html
 ---
 
-<div class="row listrecent">
-{% for category in site.categories %}
-<div class="section-title col-md-12 mt-4">
-<h2 id="{{ category[0] | replace: " ","-" }}">Category <span class="text-capitalize">{{ category[0] }}</span></h2>
+<head>
+
+<link href="{{ site.baseurl }}/assets/css/library.css" rel="stylesheet">
+
+</head>
+
+<!-- Stories by Category Index
+================================================== -->
+<section class="recent-posts">
+
+{% for cat in site.category-list %}
+<h2 id="{{cat}}"> {{ cat }} </h2>
+	<div class="row listrecent">
+	{% for story in site.stories %}
+      {% for pc in story.categories %}
+        {% if pc == cat %}
+
+		<!-- Story entry -->
+		<div id="story">
+			<a href="{{ story.url }}" title="{{ story.title }}">
+				<img class="story-cover" src="{{ story.cover }}"/>
+			</a>
+			<a href="{{ story.url }}" title="{{ story.title }}">
+				<h2 class="story-title" src="{{ site.baseurl }}{{ story.path }}" >{{ story.title }}</span></h2>
+			</a>
+			<div><span class="story-blurb">{{ story.blurb }}</span></div>
+
+			<!-- Story Categories -->
+			<div class="after-post-cats">
+					<ul class="tags mb-4">
+							<span>Categories: </span>
+							{% assign sortedCategories = story.categories | sort %}
+							{% for category in sortedCategories %}
+							<li>
+									<a class="smoothscroll" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
+							</li>
+							{% endfor %}
+					</ul>
+			</div>
+			<!-- End Categories -->
+
+			<!-- Story Tags -->
+			<div class="after-post-tags">
+					<ul class="tags">
+							<span>Tags: </span>
+							{% assign sortedTags = story.tags | sort %}
+							{% for tag in sortedTags %}
+							<li>
+									<a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
+							</li>
+							{% endfor %}
+					</ul>
+			</div>
+			<!-- End Tags -->
+		</div>
+		<!-- End Story -->
+        {% endif %}   <!-- cat-match-p -->
+      {% endfor %}  <!-- story-category -->
+  {% endfor %}  <!-- stories -->
+    </div>
+{% endfor %}  <!-- category-list -->
+
+
+    <div class="row listrecent">
+
+    </div>
+
+</section>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
 </div>
-{% assign pages_list = category[1] %}
-{% for post in pages_list %}
-{% if post.title != null %}
-{% if group == null or group == post.group %}
-{% include postbox.html %}
-{% endif %}
-{% endif %}
-{% endfor %}
-{% assign pages_list = nil %}
-{% assign group = nil %}
-{% endfor %}
-</div>
+

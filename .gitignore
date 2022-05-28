@@ -21,3 +21,4 @@ index.html~
 *.un~
 .jekyll-cache/
 *.swp
+.serve

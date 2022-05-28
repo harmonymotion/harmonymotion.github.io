@@ -33,6 +33,9 @@ collections:
   stories: 
     output: true
 
+# For story categories
+category-list: [Superpowers, Omnipotent, Giantess, Mind Control, Attribute Theft, SSU, Cirraneverse]
+
 # Plugins
 plugins:
   - jekyll-paginate

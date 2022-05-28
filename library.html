@@ -13,7 +13,7 @@ title: Library
 ================================================== -->
 <section class="recent-posts">
 
-    <div class="row listrecent">
+	<div class="row listrecent">
 	{% for story in site.stories %}
 		<div id="story">
 			<a href="{{ story.url }}" title="{{ story.title }}">
@@ -23,37 +23,39 @@ title: Library
 				<h2 class="story-title" src="{{ site.baseurl }}{{ story.path }}" >{{ story.title }}</span></h2>
 			</a>
 			<div><span class="story-blurb">{{ story.blurb }}</span></div>
-            <!-- Post Categories -->
-            <div class="after-post-cats">
-                <ul class="tags mb-4">
-										<span>Categories: </span>
-                    {% assign sortedCategories = story.categories | sort %}
-                    {% for category in sortedCategories %}
-                    <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div>
-            <!-- End Categories -->
 
-            <!-- Post Tags -->
-            <div class="after-post-tags">
-                <ul class="tags">
-										<span>Tags: </span>
-                    {% assign sortedTags = story.tags | sort %}
-                    {% for tag in sortedTags %}
-                    <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div>
-				</div>
-			<!-- End Tags -->
-	{% endfor %}
+			<!-- Post Categories -->
+			<div class="after-post-cats">
+					<ul class="tags mb-4">
+							<span>Categories: </span>
+							{% assign sortedCategories = story.categories | sort %}
+							{% for category in sortedCategories %}
+							<li>
+									<a class="smoothscroll" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
+							</li>
+							{% endfor %} <!-- category end -->
+					</ul>
 			</div>
-    </div>
+			<!-- End Categories -->
+
+			<!-- Post Tags -->
+			<div class="after-post-tags">
+					<ul class="tags">
+							<span>Tags: </span>
+							{% assign sortedTags = story.tags | sort %}
+							{% for tag in sortedTags %}
+							<li>
+									<a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
+							</li>
+							{% endfor %} <!-- tag end -->
+					</ul>
+			</div>
+			<!-- End Tags -->
+
+		</div>
+		<!-- end Story -->
+	{% endfor %}
+	</div>
 
 
     <div class="row listrecent">
