@@ -3,7 +3,7 @@ layout: story
 title: "Iveen in Autumn"
 categories: [ Cirraneverse ]
 tags: [ transformation ]
-cover: /portfolio/gallery/iveen-in-autumn.png
+cover: /portfolio/gallery/Iveen-in-Autumn.png
 blurb: "Iveen has an encounter with a fisherman on an idyllic morning on the outskirts of Cirrane."
 featured: false
 hidden: false
