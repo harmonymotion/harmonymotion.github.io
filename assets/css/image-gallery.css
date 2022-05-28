@@ -9,7 +9,7 @@
 
 .img-gallery {
     height: 100%;
-	padding: 50px;
+	padding: 10px;
 	object-fit: contain;
 /*	transform: scale(1);
 	transition: .5s;
