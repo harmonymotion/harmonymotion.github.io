@@ -13,10 +13,7 @@ output: true
 ---
 
 
-# Alpha at Play
-
-Written by HarmonyMotion
-
+Written by HarmonyMotion  
 Commissioned by danio13
 
 Padded paws softly thudded rhythmically across a forest on the outskirts of Cirrane. Four footfalls, silence. Four footfalls, silence. The smell of damp earth and the sound of crispy leaves tingled the large beast’s senses.

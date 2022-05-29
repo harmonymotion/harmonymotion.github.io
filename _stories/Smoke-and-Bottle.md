@@ -12,8 +12,6 @@ publication-date: "2022-05-29"
 output: true
 ---
 
-
-# Smoke and Bottle  
 Commissioned by danio13  
 Written by HarmonyMotion  
 

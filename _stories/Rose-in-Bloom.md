@@ -13,8 +13,6 @@ output: true
 ---
 
 
-
-# Rose in Bloom  
 Written by HarmonyMotion  
 Commissioned by danio13
 

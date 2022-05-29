@@ -12,10 +12,7 @@ publication-date: "2022-05-29"
 output: true
 ---
 
-# Iveen in Autumn
-
-Commissioned by danio13
-
+Commissioned by danio13  
 Written by HarmonyMotion
 
 Albert Ross stretched as he leaned to drop a fresh fish into his bucket, inhaling the refreshing chill scent of an autumn breeze at sunrise. He cast his line again, the tackle dropping into the water with a gentle splash before burying the rod in the rocky earth and cracking open a light beer.
