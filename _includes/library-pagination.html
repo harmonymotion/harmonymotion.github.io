@@ -1,0 +1,25 @@
+{% assign prevflag = 1 %}
+{% assign nextflag = 1 %}
+
+{% for story in site.stories %}
+  {% if story.title == page.title %}
+    {% assign currentItemIndex = forloop.index0 %}
+    {% if forloop.index == 1 %}
+      {% assign prevflag = 0 %}
+      {% assign nextflag = 1 %}
+    {% elsif forloop.index == forloop.length %}
+      {% assign prevflag = 1 %}
+      {% assign nextflag = 0 %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% if prevflag == 1 %}
+  {% assign prevItemIndex = currentItemIndex | minus: 1 %}
+  {% assign prevPost = site.stories[prevItemIndex] %}
+{% endif %}
+
+{% if nextflag == 1 %}
+  {% assign nextItemIndex = currentItemIndex | plus: 1 %}
+  {% assign nextPost = site.stories[nextItemIndex] %}
+{% endif %}

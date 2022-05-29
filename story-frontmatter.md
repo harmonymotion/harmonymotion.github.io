@@ -8,6 +8,7 @@ blurb: " "
 featured: false
 hidden: true
 client: " "
+publication-date: " "
 output: false
 ---
 

@@ -1,0 +1,47 @@
+---
+layout: page
+title: Stories with Giantesses
+permalink: /category/giantess/
+---
+
+<head>
+
+<link href="{{ site.baseurl }}/assets/css/library.css" rel="stylesheet">
+
+</head>
+
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+
+<div> <a href="/library">Library by date</a></div>
+
+	<div class="row listrecent">
+
+	{% for story in site.stories %}
+      {% for pc in story.categories %}
+        {% if pc == "giantess" %}
+
+				{% include book-cover.html %}
+
+        {% endif %}   <!-- cat-match-p -->
+      {% endfor %}  <!-- story-category -->
+  {% endfor %}  <!-- stories -->
+	</div>
+
+
+    <div class="row listrecent">
+
+    </div>
+
+</section>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    {% include library-pagination.html %}
+</span>
+</div>
+

@@ -1,0 +1,43 @@
+---
+layout: page
+title: Stories by Most Recent
+permalink: /library/
+---
+
+<head>
+
+<link href="{{ site.baseurl }}/assets/css/library.css" rel="stylesheet">
+
+</head>
+
+<!-- Stories by Most Recent
+================================================== -->
+<div> <a href="/library/library-by-abc">Sort by alphabetical</a></div>
+<div> <a href="/library/library-by-category">View with categories</a></div>
+
+<section class="recent-posts">
+
+	<div class="row listrecent">
+	{% assign stories = site.stories | sort: "published-date" | reverse %}
+	{% for story in stories %}
+
+    {% include book-cover.html %}
+
+  {% endfor %}  <!-- stories -->
+    </div>
+
+    <div class="row listrecent">
+
+    </div>
+
+</section>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    {% include library-pagination.html %}
+</span>
+</div>
+

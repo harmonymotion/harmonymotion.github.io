@@ -1,25 +1,3 @@
----
-layout: page
-title: Stories by Category
-permalink: /categories.html
----
-
-<head>
-
-<link href="{{ site.baseurl }}/assets/css/library.css" rel="stylesheet">
-
-</head>
-
-<!-- Stories by Category Index
-================================================== -->
-<section class="recent-posts">
-
-{% for cat in site.category-list %}
-<h2 id="{{cat}}"> {{ cat }} </h2>
-	<div class="row listrecent">
-	{% for story in site.stories %}
-      {% for pc in story.categories %}
-        {% if pc == cat %}
 
 		<!-- Story entry -->
 		<div id="story">
@@ -38,7 +16,7 @@ permalink: /categories.html
 							{% assign sortedCategories = story.categories | sort %}
 							{% for category in sortedCategories %}
 							<li>
-									<a class="smoothscroll" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
+									<a class="smoothscroll" href="{{site.baseurl}}/category/{{ category | replace: " ","-" }}">{{ category }}</a>
 							</li>
 							{% endfor %}
 					</ul>
@@ -60,25 +38,3 @@ permalink: /categories.html
 			<!-- End Tags -->
 		</div>
 		<!-- End Story -->
-        {% endif %}   <!-- cat-match-p -->
-      {% endfor %}  <!-- story-category -->
-  {% endfor %}  <!-- stories -->
-    </div>
-{% endfor %}  <!-- category-list -->
-
-
-    <div class="row listrecent">
-
-    </div>
-
-</section>
-
-<!-- Pagination
-================================================== -->
-<div class="bottompagination">
-<div class="pointerup"><i class="fa fa-caret-up"></i></div>
-<span class="navigation" role="navigation">
-    {% include pagination.html %}
-</span>
-</div>
-

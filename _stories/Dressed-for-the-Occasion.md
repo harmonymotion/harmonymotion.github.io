@@ -1,12 +1,13 @@
 ---
 layout: story
 title: "Dressed for the Occasion"
-categories: [ Omnipotent, Ascension, FemDom ]
+categories: [ omnipotent ]
 tags: [ omni, f2ftf, orgasm denial, femdom, ascension, gentle, genie, wish fulfillment, costume, beautydom ]
 cover: /portfolio/gallery/Dressed-for-the-Occasion.png
 blurb: "Amanda becomes what she dressed up for as Halloween. And what she dressed up as is an omnipotent, wish-granting genie."
 featured: false
 hidden: false
+publication-date: "2022-05-12"
 client: Rjjt
 ---
 

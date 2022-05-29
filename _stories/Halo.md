@@ -1,12 +1,13 @@
 ---
 layout: story
 title: "Halo"
-categories: [ Omnipotent, Ascension, FemDom ]
+categories: [ omnipotent ]
 tags: [ omni, f2ftf, orgasm denial, femdom, ascension, gentle, genie, wish fulfillment, beautydom ]
 cover: /portfolio/gallery/Halo.png
 blurb: "Megan is accidentally granted an artifact from Heaven."
 featured: false
 hidden: false
+publication-date: "2022-05-12"
 client: "Rjjt"
 ---
 

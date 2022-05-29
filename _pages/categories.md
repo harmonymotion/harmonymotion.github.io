@@ -1,5 +1,5 @@
 ---
-layout: categories
-title: Categories
+layout: page
+title: Stories by Category
 permalink: /categories
 ---

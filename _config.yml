@@ -34,7 +34,7 @@ collections:
     output: true
 
 # For story categories
-category-list: [Superpowers, Omnipotent, Giantess, Mind Control, Attribute Theft, SSU, Cirraneverse]
+category-list: [superpowers, omnipotent, giantess, mind control, attribute theft, SSU, Cirraneverse]
 
 # Plugins
 plugins:
