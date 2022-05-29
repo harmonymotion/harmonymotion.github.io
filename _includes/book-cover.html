@@ -7,7 +7,8 @@
 			<a href="{{ story.url }}" title="{{ story.title }}">
 				<h2 class="story-title" src="{{ site.baseurl }}{{ story.path }}" >{{ story.title }}</span></h2>
 			</a>
-			<div><span class="story-blurb">{{ story.blurb }}</span></div>
+			<div><span id="story-blurb">{{ story.blurb }}</span></div>
+			<div><span id="publication-date">Published {{ story.publication-date }}</span></div>
 
 			<!-- Story Categories -->
 			<div class="after-post-cats">

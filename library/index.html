@@ -18,7 +18,7 @@ permalink: /library/
 <section class="recent-posts">
 
 	<div class="row listrecent">
-	{% assign stories = site.stories | sort: "published-date" | reverse %}
+	{% assign stories = site.stories | sort: "publication-date" | reverse %}
 	{% for story in stories %}
 
     {% include book-cover.html %}

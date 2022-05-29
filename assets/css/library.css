@@ -3,10 +3,16 @@
 	height: auto;
 }
 
-.story-title {
+#story-title {
 }
 
-.story-blurb {
+#story-blurb {
+}
+
+#publication-date {
+	font-style: italic;
+	font-size: 0.8em;
+	margin: 10 0px;
 }
 
 #story {
