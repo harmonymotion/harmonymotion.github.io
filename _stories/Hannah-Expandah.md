@@ -1,6 +1,6 @@
 ---
 layout: story
-title: "Hannah Expanda"
+title: "Hannah Expandah"
 categories: [ Mind Control ]
 tags: [ breast expansion, beautydom, reality warping, unaware ]
 cover: /portfolio/generics/generic_booba.png
