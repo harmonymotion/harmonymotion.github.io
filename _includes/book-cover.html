@@ -17,7 +17,7 @@
 							{% assign sortedCategories = story.categories | sort %}
 							{% for category in sortedCategories %}
 							<li>
-									<a class="smoothscroll" href="{{site.baseurl}}/category/{{ category | replace: " ","-" }}">{{ category }}</a>
+									<a class="smoothscroll" href="{{site.baseurl}}/category/{{ category | slugify }}">{{ category }}</a>
 							</li>
 							{% endfor %}
 					</ul>
@@ -31,7 +31,7 @@
 							{% assign sortedTags = story.tags | sort %}
 							{% for tag in sortedTags %}
 							<li>
-									<a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
+									<a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | slugify }}">#{{ tag }}</a>
 							</li>
 							{% endfor %}
 					</ul>
