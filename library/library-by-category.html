@@ -18,7 +18,7 @@ permalink: /library/library-by-category.html
 
 {% for cat in site.category-list %}
 {% assign cat-link = cat | slugify %}
-<h2 id="{{cat}}"><a href="/category/{{cat-link}}"> {{ cat }} </a></h2>
+<h1 id="{{cat}}"><a href="/category/{{cat-link}}"> {{ cat }} </a></h2>
 	<div class="row listrecent">
 
 	{% for story in site.stories %}
