@@ -3,12 +3,13 @@ layout: post
 title: "Library updated"
 categories: [ ]
 tags: [ ]
-description: "A Trilogy with Belle uploaded"
+image: /assets/images/logo.png
+description: "Two new stories uploaded"
 featured: True
 hidden: false
 ---
-#### Migrating stories
+#### A Trilogy with Belle and Elenyi's Empire uploaded
 
-New story migrated. This one's a doozy!
+New stories migrated today.
 
 Enjoy!
