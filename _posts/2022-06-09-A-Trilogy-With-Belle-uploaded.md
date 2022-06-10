@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Library updated"
+title: "Library updated"
 categories: [ ]
 tags: [ ]
-image: 
 description: "A Trilogy with Belle uploaded"
 featured: True
 hidden: false

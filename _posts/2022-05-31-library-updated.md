@@ -3,9 +3,8 @@ layout: post
 title:  "Library updated"
 categories: [ ]
 tags: [ ]
-image: 
 description: "Tons of stories posted!"
-featured: True
+featured: false
 hidden: false
 ---
 #### Migrating stories
