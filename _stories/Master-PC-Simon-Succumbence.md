@@ -16,6 +16,9 @@ output: true
 Commissioned by Rjjt  
 Written by HarmonyMotion
 
+* TOC
+{:toc}
+
 # Chapter 1 
 
 “What is free will?” Mrs. Halsey started off the lecture, the first day back from winter break.

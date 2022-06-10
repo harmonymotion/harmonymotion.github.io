@@ -7,14 +7,16 @@ cover: /portfolio/generics/omni.png
 blurb: "Lonely, unfilfilled Mary experiences a hazy dream that she recalls more and more vividly as the days pass..."
 featured: false
 hidden: false
-client: "anonymous"
+client: "Loamlife"
 publication-date: "2022-05-31"
 output: true
 ---
 
-Commissioned by loamlife  
+Commissioned by Loamlife  
 Written by HarmonyMotion
 
+* TOC
+{:toc}
 
 ## Chapter 1
 

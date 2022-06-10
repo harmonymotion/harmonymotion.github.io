@@ -15,6 +15,9 @@ output: true
 Commissioned by GalateaX  
 Written by HarmonyMotion
 
+* TOC
+{:toc}
+
 # Chapter 1 - Beginnings
 
 “Our ultimate weapon… will it really work?”

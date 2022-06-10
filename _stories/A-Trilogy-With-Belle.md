@@ -12,10 +12,11 @@ publication-date: "2022-06-09"
 output: true
 ---
 
+* TOC
+{:toc}
 
 Written by HarmonyMotion  
 Commissioned by Annihilator10k
-
 
 
 # A Date with Belle

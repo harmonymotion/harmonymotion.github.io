@@ -15,6 +15,8 @@ output: true
 Commissioned by echo  
 Written by HarmonyMotion  
 
+* TOC
+{:toc}
 
 # Chapter 1
 

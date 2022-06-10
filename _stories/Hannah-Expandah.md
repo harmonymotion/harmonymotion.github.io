@@ -16,6 +16,8 @@ output: true
 Commissioned by The Penguin  
 Written by HarmonyMotion
 
+* TOC
+{:toc}
 
 # Chapter 1
 
