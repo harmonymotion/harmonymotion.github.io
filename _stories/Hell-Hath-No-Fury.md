@@ -3,7 +3,7 @@ layout: story
 title: "Hell Hath No Fury"
 categories: [ Superpowers ]
 tags: [ femdom, invulnerability, explicit sex ]
-cover: /portfolio/generics/generic_super-2.png
+cover: /portfolio/generics/super.png
 blurb: "Demon King Abbadon faces his ultimate opponent: a stunning blonde teenage girl."
 featured: false
 hidden: false

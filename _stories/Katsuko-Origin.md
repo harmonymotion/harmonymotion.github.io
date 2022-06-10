@@ -3,7 +3,7 @@ layout: story
 title: "Katsuko's Origin"
 categories: [ Superpowers, Omnipotent, Giantess ]
 tags: [ f2ftf, beautydom ]
-cover: /portfolio/generics/generic_super-2.png
+cover: /portfolio/generics/super.png
 blurb: "Katsuko is an overpowered, unstoppable goddess."
 featured: false
 hidden: false

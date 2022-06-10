@@ -1,14 +1,14 @@
 ---
 layout: story
-title: " "
+title: ""
 categories: [ Omnipotent ]
-tags: [ omni, f2ftf, orgasm denial, femdom, ascension, gentle, genie, wish fulfillment, beautydom ]
-cover: /portfolio/gallery/
-blurb: " "
+tags: [ omni, f2ftf, orgasm denial, femdom, ascension, beautydom ]
+cover: /portfolio/genercs
+blurb: ""
 featured: false
 hidden: false
-client: " "
-publication-date: " "
+client: ""
+publication-date: ""
 output: true
 ---
 

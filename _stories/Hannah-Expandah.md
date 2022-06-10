@@ -3,7 +3,7 @@ layout: story
 title: "Hannah Expandah"
 categories: [ Mind Control ]
 tags: [ breast expansion, beautydom, reality warping, unaware ]
-cover: /portfolio/generics/generic_booba.png
+cover: /portfolio/generics/boobs.png
 blurb: "Hannah undergoes a shady experimental operation that ends up being an overwhelming success. But she isn't aware that she's already had it done before..."
 featured: false
 hidden: false

@@ -3,7 +3,7 @@ layout: story
 title: "Taking It All In"
 categories: [ Attribute Theft ]
 tags: [ orgasm denial, femdom, breast expansion, lactation ]
-cover: /portfolio/generics/generic_booba.png
+cover: /portfolio/generics/boobs.png
 blurb: "Bitchy Sarah has enormous boobs and is extremely proud of them, but she's still nothing compared to her three high school teachers. Until..."
 featured: false
 hidden: false

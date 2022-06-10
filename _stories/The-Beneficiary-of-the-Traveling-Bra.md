@@ -3,7 +3,7 @@ layout: story
 title: "The Beneficiary of the Traveling Bra"
 categories: [ Attribute Theft ]
 tags: [ breast expansion, lactation ]
-cover: /portfolio/generics/generic_booba.png
+cover: /portfolio/generics/boobs.png
 blurb: "Helena inadvertantly uses a magic detergent on her daughter's bra."
 featured: false
 hidden: false

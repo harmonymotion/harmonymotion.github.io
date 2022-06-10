@@ -3,7 +3,7 @@ layout: story
 title: "Master PC - Simon's Succumbence"
 categories: [ Mind Control ]
 tags: [ f2ftf, orgasm denial, femdom, ascension, wish fulfillment, beautydom, fantasy ]
-cover: /portfolio/generics/generic_omni.png
+cover: /portfolio/generics/omni.png
 blurb: "Simon gets a hold of Master PC, but Sheila does it so much better."
 featured: false
 hidden: false

@@ -3,7 +3,7 @@ layout: story
 title: "Boss's Footstool"
 categories: [ Giantess ]
 tags: [ shrunken male, femdom, humiliation ]
-cover: /portfolio/generics/generic_GTS.png
+cover: /portfolio/generics/gts.png
 blurb: "Henry thought Vanessa was a demanding boss, but wait until he gets shrunken down by her..."
 featured: false
 hidden: false

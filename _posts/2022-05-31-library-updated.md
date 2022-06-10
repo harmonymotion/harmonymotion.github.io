@@ -3,7 +3,7 @@ layout: post
 title:  "Library updated"
 categories: [ ]
 tags: [ ]
-image: assets/images/00.png
+image: 
 description: "Tons of stories posted!"
 featured: True
 hidden: false

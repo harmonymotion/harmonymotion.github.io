@@ -3,7 +3,7 @@ layout: story
 title: "True Blue"
 categories: [ Omnipotent ]
 tags: [ omni, f2ftf, lesbian, femdom, ascension, gentle, beautydom ]
-cover: /portfolio/generics/generic_omni.png
+cover: /portfolio/generics/omni.png
 blurb: "Lonely, unfilfilled Mary experiences a hazy dream that she recalls more and more vividly as the days pass..."
 featured: false
 hidden: false
