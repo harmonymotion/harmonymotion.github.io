@@ -15,10 +15,6 @@ output: true
 * TOC
 {:toc}
 
-Written by HarmonyMotion  
-Commissioned by Annihilator10k
-
-
 # A Date with Belle
 
 ## Chapter 1

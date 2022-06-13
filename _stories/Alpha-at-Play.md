@@ -12,10 +12,6 @@ publication-date: "2022-05-29"
 output: true
 ---
 
-
-Written by HarmonyMotion  
-Commissioned by danio13
-
 Padded paws softly thudded rhythmically across a forest on the outskirts of Cirrane. Four footfalls, silence. Four footfalls, silence. The smell of damp earth and the sound of crispy leaves tingled the large beast’s senses.
 
 She scanned the scenery through ice blue irises, seeing the world in varying shades of grey, illuminated by the luminescent glow of the full moon. The cold bite of the autumn air whipped against her dense, matted, black fur. It didn’t bother her in the slightest.

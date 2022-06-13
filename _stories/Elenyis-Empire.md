@@ -14,10 +14,6 @@ output: true
 * TOC
 {:toc}
 
-Written by HarmonyMotion  
-Commissioned by Loamlife
-
-
 ## Prologue
 
 “Domestic engineer wanted. Travel to Procyon. 15 year round trip journey. UEN Badger leaves in two weeks.”

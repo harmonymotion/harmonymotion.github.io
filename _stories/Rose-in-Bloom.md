@@ -13,9 +13,6 @@ output: true
 ---
 
 
-Written by HarmonyMotion  
-Commissioned by danio13
-
 * TOC
 {:toc}
 

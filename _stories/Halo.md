@@ -11,10 +11,6 @@ publication-date: "2022-05-12"
 client: "Rjjt"
 ---
 
-
-Commissioned by Rjjt  
-Written by HarmonyMotion
-
 Megan and David sat at the breakfast table in relative silence, a daytime soap droning on their 20” television accented only by the sound of flatware clinking.
 
 She watched the show’s insipid plot unfold while David just let his mind drift away. Another 60 hour week at his menial job had left him utterly drained.

@@ -11,11 +11,6 @@ publication-date: "2022-05-12"
 client: Rjjt
 ---
 
-Commissioned by Rjjt  
-Written by HarmonyMotion
-
-
-
 “Whooo! Lookin good, Amanda!”
 
 “Yeaaa!!!”

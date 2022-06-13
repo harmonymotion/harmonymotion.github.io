@@ -13,9 +13,6 @@ output: true
 ---
 
 
-Commissioned by dailey23  
-Written by HarmonyMotion
-
 Henry puttered around in the laboratory at 7:00 PM per his boss Vanessa’s orders. Cutting edge this, shareholder that. What a bunch of bullshit! He hadn’t been able to go home before 9:00 PM in weeks. This definitely wasn’t what he had in mind when Vanessa had given him a promotion.
 
 Vanessa was so insufferable and demanding. Beautiful too, but Henry didn’t want to admit that. It helped that her being a slave driver automatically caused him not to think of her in that way. Always demanding more work, pointing out every single little missed detail—not that she was ever wrong, but _god_ it got old—insisting that their work was important and world changing and that they had to work 80 hours a week if they wanted to stay on the cutting edge.

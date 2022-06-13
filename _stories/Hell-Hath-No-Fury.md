@@ -12,9 +12,6 @@ publication-date: "2022-05-31"
 output: true
 ---
 
-Commissioned by anonymous  
-Written by HarmonyMotion
-
 “Sire! We have one subject who is particularly troublesome…” a subservient kobold reportedly to the Demon King in a quivering voice.
 
 “Have you not administered the truth serum?” the Demon King’s voice boomed as they walked down the hall to the dungeons.

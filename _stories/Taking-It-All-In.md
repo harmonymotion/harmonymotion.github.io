@@ -12,9 +12,6 @@ publication-date: "2022-05-31"
 output: true
 ---
 
-Commissioned by echo  
-Written by HarmonyMotion
-
 * TOC
 {:toc}
 

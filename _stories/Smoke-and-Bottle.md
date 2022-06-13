@@ -12,9 +12,6 @@ publication-date: "2022-05-29"
 output: true
 ---
 
-Commissioned by danio13  
-Written by HarmonyMotion  
-
 “Billionaire philanthropist thrill-seeker lost over the seas!” was one of the bigger headlines of the day. Clara Delgado managed to catch wind of it before it finished making its daily rounds on the hyperactive world’s lack of attention.
 
 She sat at her computer desk at Pristine Paper, Inc, plugging away at data entry. Sneaking glances at everyone around her, Clara surreptitiously clicked through to the news article.
