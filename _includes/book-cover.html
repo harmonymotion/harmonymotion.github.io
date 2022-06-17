@@ -31,7 +31,8 @@
 							{% assign sortedTags = story.tags | sort %}
 							{% for tag in sortedTags %}
 							<li>
-									<a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | slugify }}">#{{ tag }}</a>
+<!--									<a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | slugify }}">#{{ tag }}</a> -->
+									<span>#{{ tag }}</span>
 							</li>
 							{% endfor %}
 					</ul>

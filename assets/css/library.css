@@ -39,6 +39,10 @@ ul.tags {
 	margin: 0px;
 }
 
+ul.tags li span {
+	margin: 4px;
+}
+
 .mb-4 {
 	margin-bottom: 0px !important;
 }
