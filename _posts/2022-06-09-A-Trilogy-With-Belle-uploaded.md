@@ -5,7 +5,7 @@ categories: [ ]
 tags: [ ]
 image: /assets/images/logo.png
 description: "Two new stories uploaded"
-featured: True
+featured: false
 hidden: false
 ---
 #### A Trilogy with Belle and Elenyi's Empire uploaded
