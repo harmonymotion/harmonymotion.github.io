@@ -2,6 +2,10 @@
 layout: page
 title: Stories by Most Recent
 permalink: /library/
+pagination:
+  enabled: true
+  permalink: '/:num/'
+  collection: stories
 ---
 
 <head>
@@ -12,16 +16,55 @@ permalink: /library/
 
 <!-- Stories by Most Recent
 ================================================== -->
-<div> <a href="/library/library-by-abc">Sort by alphabetical</a></div>
-<div> <a href="/library/library-by-category">View with categories</a></div>
+<div> <a href="/library-by-abc">Sort by alphabetical</a></div>
+<div> <a href="/library-by-category">View with categories</a></div>
 
 <section class="recent-posts">
 
 	<div class="row listrecent">
-	{% assign stories = site.stories | sort: "publication-date" | reverse %}
-	{% for story in stories %}
+	{% for story in paginator.posts %}
 
-    {% include book-cover.html %}
+    <!-- Story entry -->
+    <div id="story">
+      <a href="{{ story.url }}" title="{{ story.title }}">
+        <img class="story-cover" src="{{ story.cover }}"/>
+      </a>
+      <a href="{{ story.url }}" title="{{ story.title }}">
+        <h3 class="story-title" src="{{ site.baseurl }}{{ story.path }}" >{{ story.title }}</span></h2>
+      </a>
+      <div><span id="story-blurb">{{ story.blurb }}</span></div>
+      <div><span id="publication-date">Published {{ story.publication-date }}</span></div>
+
+      <!-- Story Categories -->
+      <div class="after-post-cats">
+          <ul class="tags mb-4">
+              <span>Categories: </span>
+              {% assign sortedCategories = story.categories | sort %}
+              {% for category in sortedCategories %}
+              <li>
+                  <a class="smoothscroll" href="{{site.baseurl}}/category/{{ category | slugify }}">{{ category }}</a>
+              </li>
+              {% endfor %}
+          </ul>
+      </div>
+      <!-- End Categories -->
+
+      <!-- Story Tags -->
+      <div class="after-post-tags">
+          <ul class="tags">
+              <span>Tags: </span>
+              {% assign sortedTags = story.tags | sort %}
+              {% for tag in sortedTags %}
+              <li>
+<!--                  <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | slugify }}">#{{ tag }}</a> -->
+                  <span>#{{ tag }}</span>
+              </li>
+              {% endfor %}
+          </ul>
+      </div>
+      <!-- End Tags -->
+    </div>
+    <!-- End Story -->
 
   {% endfor %}  <!-- stories -->
     </div>
@@ -35,7 +78,6 @@ permalink: /library/
 <!-- Pagination
 ================================================== -->
 <div class="bottompagination">
-<div class="pointerup"><i class="fa fa-caret-up"></i></div>
 <span class="navigation" role="navigation">
     {% include library-pagination.html %}
 </span>
