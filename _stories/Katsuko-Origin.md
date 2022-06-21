@@ -191,14 +191,6 @@ She took a button down shirt off the corpse of one of the taller males and put i
 “What have we created…” the lead scientist uttered to himself, still jetting semen from his steely rod.
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-Sung Uk Kim
-
-
 # Chapter 2 - Defense
 
 Katsuko exited the gray laboratory, leaving crumbling granite where she had effortlessly smashed through its walls. The planet of Xenoi trembled under the dainty footsteps of her impossibly perfect, unfathomably powerful body.
