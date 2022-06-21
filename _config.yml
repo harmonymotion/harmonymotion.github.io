@@ -33,26 +33,12 @@ collections:
   stories: 
     output: true
 
-pagination:
-  enabled: true
-  collection: 'stories'
-  per_page: 10
-  permalink: '/library/:num'
-  limit: 0
-  sort_field: 'publication-date'
-  sort_reverse: true
-  category: 'posts'
-  tag: ''
-  trail:
-    before: 2
-    after: 2
-
 # For story categories
 category-list: [Superpowers, Omnipotent, Giantess, Mind Control, Attribute Theft, SSU, Cirraneverse]
 
 # Plugins
 plugins:
-  - jekyll-paginate-v2
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
@@ -67,8 +53,8 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-# paginate: 6
-# paginate_path: /page:num/
+paginate: 6
+paginate_path: /page:num/
     
 # Other
 markdown: kramdown
