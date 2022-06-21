@@ -1,13 +1,7 @@
 ---
 layout: page
 title: Stories by Alphabetical
-permalink: /library-by-abc/
-pagination:
-  enabled: true
-  permalink: '/library-by-abc/:num/'
-  collection: stories
-  sort_field: 'title'
-  sort_reverse: false
+permalink: /library/library-by-abc.html
 ---
 
 <head>
@@ -19,7 +13,6 @@ pagination:
 <!-- Stories by Category Index
 ================================================== -->
 <div> <a href="/library">Sort by date</a></div>
-<div> <a href="/library/library-by-category">View with categories</a></div>
 
 <section class="recent-posts">
 
@@ -41,6 +34,7 @@ pagination:
 <!-- Pagination
 ================================================== -->
 <div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
 <span class="navigation" role="navigation">
     {% include library-pagination.html %}
 </span>
