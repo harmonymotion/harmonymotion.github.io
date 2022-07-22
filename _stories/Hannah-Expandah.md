@@ -76,20 +76,15 @@ Hannah swiped the notification away, not wanting to acknowledge that she’d rea
 
 She started looking into breast enhancement surgery for the hundredth time. Surprisingly, a new clinic was at the top of the list. She clicked on it.
 
-
-    **BetterBeauty Inc.**
-
-
-    Look your best! All the time, all the time! We at BetterBeauty, Inc. are dedicated to painting you at the peak of your potential! Smoother skin, brighter eyes, bigger bust! To help you reach the ideal potential that **you** always had within you!
-
-
-    New experimental method devised! Mesmerize your audience with the new, improved you! No one will be able to resist!
-
-
-    No scar tissue, minimally invasive procedure, reduced healing time! Clearer skin, brighter eyes, longer legs, larger bust. And a winning smile!
-
-
-    Side effects may include drowsiness vomiting nausea bleeding dry skin short term memory loss diarrhea constipation irritable bowel syndrome brain fog brain sluggishness generally heightened irritability dry eyes headaches lupus migraines excessive urination hair loss erectile dysfunction lowered libido heightened libido loss of balance dizziness sore muscles dry mouth runny nose lazy eye blindness saggy face and unwanted pregnancy. Do not undergo this surgery if you are allergic to peanuts tree nuts all nuts pollen dust dirt people dog hair cat hair dander outdoors indoors. Please see a doctor if effects last for more than 4 hours.
+> **BetterBeauty Inc.**
+> 
+> Look your best! All the time, all the time! We at BetterBeauty, Inc. are dedicated to painting you at the peak of your potential! Smoother skin, brighter eyes, bigger bust! To help you reach the ideal potential that **you** always had within you!
+> 
+> New experimental method devised! Mesmerize your audience with the new, improved you! No one will be able to resist!
+> 
+> No scar tissue, minimally invasive procedure, reduced healing time! Clearer skin, brighter eyes, longer legs, larger bust. And a winning smile!
+> 
+> Side effects may include drowsiness vomiting nausea bleeding dry skin short term memory loss diarrhea constipation irritable bowel syndrome brain fog brain sluggishness generally heightened irritability dry eyes headaches lupus migraines excessive urination hair loss erectile dysfunction lowered libido heightened libido loss of balance dizziness sore muscles dry mouth runny nose lazy eye blindness saggy face and unwanted pregnancy. Do not undergo this surgery if you are allergic to peanuts tree nuts all nuts pollen dust dirt people dog hair cat hair dander outdoors indoors. Please see a doctor if effects last for more than 4 hours.
 
 Hannah read the first three paragraphs and couldn’t resist this time. No other ad ever promised this much before! She inputted her daddy’s credit card, all sixteen digits memorized (plus CCV of course) and signed up for their first available slot.
 
@@ -212,7 +207,6 @@ She opened the dorm door and prepared for a barrage of speech from her talkative
 
 “Ms. Buckland?” Hannah searched her thoughts. Oh right. “Who told you about that?”
 
- \
 “Brenda. She wants to talk to you, you know.”
 
 “Ugh! Well, I don’t wanna talk to her. I just wanna go to sleep. Stupid operation…” she muttered.
@@ -416,10 +410,9 @@ Ignoring her classes, she browsed the internet idly, looking for solutions to he
 She stumbled across an ad for BetterBeauty Inc.
 
 
-    **BetterBeauty Inc.**
-
-
-    Look your best! All the time, all the time! We at BetterBeauty, Inc. are dedicated to painting you at the peak of your potential! Smoother skin, brighter eyes, bigger bust!
+>    **BetterBeauty Inc.**
+>
+>    Look your best! All the time, all the time! We at BetterBeauty, Inc. are dedicated to painting you at the peak of your potential! Smoother skin, brighter eyes, bigger bust!
 
 A ton of text followed, but Hannah couldn’t be bothered to read it. She gleefully signed up for an appointment and punched in her daddy’s credit card number from memory.
 
