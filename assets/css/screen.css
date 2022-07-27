@@ -398,11 +398,6 @@ blockquote {
     top: 100px;
 }
 
-.sticky-toc-offset {
-		position: sticky;
-    top: 240px;
-}
-
 @media (min-width:1024px) {
     .share ul li {
         display: block;

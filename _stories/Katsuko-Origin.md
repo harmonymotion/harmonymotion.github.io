@@ -12,6 +12,8 @@ publication-date: "2022-05-31"
 output: true
 ---
 
+* TOC
+{:toc}
 
 # Chapter 1 - Beginnings
 

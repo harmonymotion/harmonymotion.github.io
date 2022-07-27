@@ -11,6 +11,8 @@ client: "Loamlife"
 publication-date: "2022-06-09"
 output: true
 ---
+* TOC
+{:toc}
 
 ## Prologue
 

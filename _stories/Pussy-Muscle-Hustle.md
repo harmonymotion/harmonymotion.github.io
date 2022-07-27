@@ -12,6 +12,8 @@ publication-date: "2022-07-28"
 output: true
 ---
 
+* TOC
+{:toc}
 
 # Pussy Muscle Hustle
 Written by HarmonyMotion with Au Goose  
