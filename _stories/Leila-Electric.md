@@ -12,8 +12,6 @@ publication-date: "2022-07-28"
 output: true
 ---
 
-* TOC
-{:toc}
 
 ## A Shard-Strike Universe Story
 

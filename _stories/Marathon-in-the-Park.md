@@ -12,8 +12,6 @@ publication-date: "2022-07-27"
 output: true
 ---
 
-* TOC
-{:toc}
 
 # Marathon in the Park
 

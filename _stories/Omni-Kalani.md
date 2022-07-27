@@ -12,8 +12,6 @@ publication-date: "2022-06-13"
 output: true
 ---
 
-* TOC
-{:toc}
 
 ## Chapter 1
 

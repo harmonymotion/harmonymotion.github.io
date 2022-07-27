@@ -12,8 +12,6 @@ publication-date: "2022-07-27"
 output: true
 ---
 
-* TOC
-{:toc}
 
 # Big Trouble in Little Dock
 Written by HarmonyMotion with Au Goose  

@@ -18,6 +18,7 @@ post_class: post-template
         <!-- Post Share -->
         <div class="col-md-2 pl-0">
             {% include share.html %}
+						{% include toc.html html=content sanitize=true class="sticky-toc-offset" id="toc" h_min=0 h_max=6 %}
         </div>
 
         <!-- Post -->

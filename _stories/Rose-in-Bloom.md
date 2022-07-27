@@ -13,9 +13,6 @@ output: true
 ---
 
 
-* TOC
-{:toc}
-
 # Chapter 1
 
 Bob Neuhart stared at the loading screen of Grand Cross Adventure, eagerly awaiting to log on, collect his daily rewards and talk to his new online friend, lonelytwister.
