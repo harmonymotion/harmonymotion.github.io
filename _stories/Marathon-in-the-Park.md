@@ -2,7 +2,7 @@
 layout: story
 title: "Marathon in the Park"
 categories: [ SSU ]
-tags: [ omni, f2ftf, orgasm denial, femdom, ascension, beautydom ]
+tags: [ f2ftf, femdom, ascension, superpowers ]
 cover: /portfolio/generics/ssu.png
 blurb: "The first entry in the Shard-Strike Universe. A superhero universe for adults!"
 featured: false
