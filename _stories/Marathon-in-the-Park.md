@@ -15,10 +15,9 @@ output: true
 
 # Marathon in the Park
 
-
-## Shard-Strike Universe created by Au Goose
 Written by HarmonyMotion with Au Goose  
 Edited by Au Goose  
+Shard-Strike Universe created by Au Goose
 
 
 ## Chapter 1
