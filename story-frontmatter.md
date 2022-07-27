@@ -12,4 +12,7 @@ publication-date: ""
 output: true
 ---
 
+* TOC
+{:toc}
+
 Change output to true in the frontmatter for stories.
