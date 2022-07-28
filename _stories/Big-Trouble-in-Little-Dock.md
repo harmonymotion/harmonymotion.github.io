@@ -441,9 +441,9 @@ Kareena winked at Cathy. Both girls giggled. Kareena’s parents sighed.
 Cathy left a sobbing Aunt Sona and a somber Uncle Charles on their own to grieve about their missing daughter. She promised she would get Kareena back at any and all costs.
 
 
-```
+`
 Cathy. Meet me at this address. FBI operation approved. GG assistance requested. You'll want to be there.
-```
+`
 
 
 The text came from Markus. Cathy slipped on her loose and revealing superheroine outfit and drove to the indicated address in her specially designed car built to accommodate her now default seven foot frame.
@@ -567,9 +567,9 @@ In a blur, Raceway was inside on the second floor cafeteria. She took a seat nea
 Another text from Markus. 1:00 AM. Cathy rubbed her eyes.
 
 
-```
+`
 Oh, bring dark clothes.
-```
+`
 
 
 Cathy got dressed in her black sports bra and briefs, one of her primary uniforms. It was a good thing she had dark skin.
