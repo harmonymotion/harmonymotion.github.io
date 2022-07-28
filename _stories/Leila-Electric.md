@@ -918,26 +918,3 @@ Leila extended her tongue, running it across those fleshy folds, before deliveri
 Daniel stared at the TV in disbelief. He never thought Leila could possibly behave like this.
 
 Would he truly see her again? Would he even want to?
-
-Compulsive need to study news of the storm. Probably watching several TVs at once and browsing the internet. NOT a super hacker. Just gethering data.
-
-Quickly figures out most of the crystals are being destroyed in the fires - likely because of overheating. Theorizes strikes near water could drop crystals into the water where cooling preserves them. Possible fuel/energy source if they can be recovered intact.
-
-Begins cataloguing reports of others with unusual powers. Identifies two ‘Aquaman-type’ individuals who might be able to recover the crystals without heavy equipment.
-
-She is a bit offended that the news says others have figured that water strikes might be exploitable and have coined the term “sea stars”. First stars recovered from a lake. Ocean stars are suddenly a high tech gold rush.
-
-Tries to reach out to both aquatic paras. Only able to reach one (male? More likely female?). Tries to negotiate a deal. Seems to be going well.
-
-American military rallies to gather para’s with huge public support as the fires are being put out. Para’s are being blamed for the attack rather than being victims of it. Afraid of this inital panic among vigilantes and the government reaction, she decides to leave the country.
-
-Meets with aquatic para. Picks island to retreat to/take over [Lunara, need location]. Promise of sex to seal the deal?
-
-Sends decoy ship to island to test aquatic para. Sneaks out in small aircraft. Para does not betray her. Alliance looking good. Aquatic begins gathering stars, she begins setting up para community on island. Possibly pleasant reward sex?
-
-Wants to sneak Daniel out to the island but there are some obstacles. (save for sequel)
-
-Set up a small power plant with crystals to woo the island's government. Sell the rest to the highest bidders. Immediate interest from all countries not able to gather their own. Political pull and visibility skyrockets. She realizes too late she should have hidden her identity.
-
-Violent but one-sided fight against ‘deniable’ special forces team sent to island to kill her and aquatic para (maybe 1-2 of them are Traces to spice up fight?). Bodies made into a warning. End with global declaration of safe haven for all paras willing to come.
-
