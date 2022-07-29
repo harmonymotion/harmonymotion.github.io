@@ -20,7 +20,7 @@ Written by HarmonyMotion with Au Goose
 Shard-Strike Universe created by Au Goose  
 
 
-# Prologue - Present Time: A Lukewarm Welcome
+## Prologue - Present Time: A Lukewarm Welcome
 
 A huge crowd of people gathered outside on a cleanly maintained and beautifully landscaped property in Inglewood, South Los Angeles. A raised stage had been erected at the end of it, complete with microphone and loudspeakers. The Golden Guard’s banner flew proudly in the rippling, warm, southern California wind.
 
@@ -137,7 +137,7 @@ The crowd erupted into cheers. The rest of the Golden Guard avoided all eye cont
 What had she gotten herself into?
 
 
-# Chapter 1 - February 2020: Southstracized
+## Chapter 1 - February 2020: Southstracized
 
 Faye steeled herself for another meeting with Professor Hinckley and the other research students.
 
@@ -246,7 +246,7 @@ He changed his tack immediately. “S-sorry! I’m sorry! Please, let us continu
 Hinckley collapsed into a lab chair as he watched the man in black and his blonde student with a drawl follow meekly behind.
 
 
-# Chapter 2 - July 2020: AyersTech PsyPo
+## Chapter 2 - July 2020: AyersTech PsyPo
 
 It hadn’t even been half a year, but already UCLA and Professor Hinckley seemed like a distant memory. Faye could hardly believe the amenities of her living situation! She lived in a lavish apartment, larger than she could have ever imagined. AyersTech took care of her every need, providing her rides to and from work, breakfast, lunch and dinner with no lack of variety, and a per diem of $150. She couldn’t spend $150 a day even if she tried. And try she did!
 
@@ -297,7 +297,7 @@ After Viktor left the office and shut the front door again, Faye let out a few t
 She was going to the new center of the world!
 
 
-# Interlude - The Phoenix Egg
+## Interlude - The Phoenix Egg
 
 The Phoenix Egg is a rocky outcrop on a hill overlooking the Atlantic Ocean in Western Sahara, almost exactly on the tropic of Cancer. It features a 2.5m stony outcrop that was the center for a strike during the initial shard storm, transforming into a glowing, opal-like substance with moving swirls of color. It radiates gentle heat at all times and is thought to be the largest stable sea star with output low enough to not melt itself with only air cooling. The area is sparsely populated, with no known paranaturals produced by the initial strike. It rapidly became a site of intense interest after a second strike occurred there roughly two months later (by which time strikes were routinely being tracked by satellite.) When a third strike occurred there a week later, multiple governments began to maneuver to take control of the region either directly, or through the Moroccan government. Before they could act, a group of paranaturals later calling themselves the Order of the Opal Fire seized the site and claimed independent and religious sovereignty, backed by the threat of no less than fourteen Apex-level paranaturals. Their agents are now known as Phoenix Knights.
 
@@ -312,7 +312,7 @@ The egg is the only place on Earth with recurring shard strikes. While the timin
 The outskirts of the site (typically outside of the strike, but some blasts are larger than others) have been subject to rapid development and are now called “Opal West.” The city is the new Casablanca, with an intensely global presence of spies and wannabe paranatural hanger-ons who can’t afford more central lodging. This outer area has a Las Vegas atmosphere of big money entertainment, high stakes gambling, glitz, and international attention, with the added attraction of Apex individuals mingling in or flying over the booming town almost every night. Rule by the Order has been largely permissive with extremely low violent crime thanks to paranatural investigative powers and an evolving but somewhat draconian court system that utilizes expulsion or execution more often than imprisonment. It has a small but growing international airport, and Paranaturals have literally carved a small harbor out of the coastline 20km north of the Egg, creating a new international port to support the growing city.
 
 
-# Chapter 3 - August 2020: En Route
+## Chapter 3 - August 2020: En Route
 
 “No problems with being on a boat, Faye?” Viktor asked in their cabin. AyersTech had assigned three additional security people and two science aides, but she needed someone to fight and take a bullet for her at any moment.
 
@@ -387,7 +387,7 @@ Stripping Faye’s prototype PsyPo sensor off his fingertips, the pair began to 
 The ship rocked extra hard for the rest of the journey.
 
 
-# Chapter 4 - August 2020: Hot and Cold
+## Chapter 4 - August 2020: Hot and Cold
 
 Faye dabbed the nonstop dripping sweat from her brow and chin uselessly with a thoroughly soaked handcloth as she performed her daily task of laying out her precise instruments on a spot twenty feet away from the Phoenix Egg. It was the closest spot the Order of the Opal Knights allowed outlanders to approach their sacred relic, and A-Tech was paying a fortune for Faye’s privilege.
 
@@ -578,7 +578,7 @@ The mask of hate seared into Viktor’s face cracked, and he was himself again.
 The two embraced in a tight hug as Faye felt waves of forced calmness and serenity wash over her in waves from Viktor’s soothing touch.
 
 
-# Chapter 5 - One Week Ago: A Tall Cost for Titaness
+## Chapter 5 - One Week Ago: A Tall Cost for Titaness
 
 Melody had her arms outstretched over Titaness’s enormous, unmoving body lying in the rubble of a large dock in Los Angeles. Dressed in civilian clothing, her lithe, superpowered body that exceeded even Marathon’s was trembling in exertion while her hands glowed purple as she tried to fight the curse that was trying to murder the Golden Guard’s largest hero.
 
