@@ -3,7 +3,7 @@ layout: post
 title: Five SSU stories uploaded!
 subtitle:
 image: portfolio/generics/ssu.png
-featured: true
+featured: false
 description: Website update!
 tags: [SSU]
 ---

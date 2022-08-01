@@ -3,7 +3,7 @@ layout: post
 title: 2022 July Roadmap
 subtitle:
 image: assets/images/00.png
-featured: true
+featured: false
 description: Patreon exclusive story status and update!
 tags: [Swan Girls]
 ---
