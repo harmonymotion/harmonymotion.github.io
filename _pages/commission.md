@@ -70,3 +70,6 @@ We charge half upfront and half upon completion.
 
 > Works fast, reliably communicates, and is the best writer I have ever worked with. Overall, definitely worth your time.
 - OmniScribbler
+
+> Team HarMo did an awesome job on my recent commission!  The writing was high quality, engaging, and realistic, and the art was the cherry on top.  They were timely, communicative, and accommodating for a first-time commissioner like myself.  Looking for a wonderfully talented writer and artist to bring your character(s) to life?  Look no further!
+- viney12
