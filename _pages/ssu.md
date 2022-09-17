@@ -24,11 +24,9 @@ Approximately four thousand paranaturals had been created by the passing storm, 
 
 Hi everyone! My editor, Au Goose, created this concept of a world like ours, but with lucky recipients of Shard Strike phenomena gaining superpowers while the not-so-lucky ones get burned into ash...
 
-There are heroes, there are villains, there are those who just want to live their simple lives who are now blessed (or cursed) with additional power. There is magic, there is persecution, there are activists and mystery and those who just want to satisfy their lust.
+There are heroes, there are villains, and there are those just wanting to live their lives, all now blessed (or cursed) with inescapable power. There is magic, persecution, revolution, and mystery as ordinary people find themselves with the power to champion great causes or who just want to satisfy their lust. 
 
-It's like the Marvel Cinematic Universe, but for adults!
-
-Here is a public collection of the stories we have written in the Shard-Strike Universe. Commissions are open to take part in this playground! We will incorporate your character into the world meaningfully and include them as the stories continue to unfold!
+Here we offer a public collection of stories written in the Shard-Strike Universe for you to browse. Commissions are open for you to take part in this playground! We incorporate YOUR character into the world meaningfully with bonus art and including them as the Shard Strike saga continues to unfold!
 
 ## Enough already, let me at the stories!
 
