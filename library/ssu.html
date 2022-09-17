@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Library by Category
-permalink: /library/library-by-category.html
+title: SSU
+permalink: /library/ssu.html
 ---
 
 <head>
@@ -16,22 +16,18 @@ permalink: /library/library-by-category.html
 
 <div> <a href="/library">Library by date</a></div>
 
-{% for cat in site.category-list %}
-{% assign cat-link = cat | slugify %}
-<h1 id="{{cat}}"><a href="/category/{{cat-link}}"> {{ cat }} </a></h2>
+<h1 id="ssu"><a href="/category/ssu">Shard Strike Universe</a></h2>
 	<div class="row listrecent">
-
 	{% for story in site.stories %}
-      {% for pc in story.categories %}
-        {% if pc == cat %}
+		{% for pc in story.categories %}
+			{% if pc == "SSU" %}
 
-					{% include book-cover.html %}
+				{% include book-cover.html %}
 
-        {% endif %}   <!-- cat-match-p -->
-      {% endfor %}  <!-- story-category -->
-  {% endfor %}  <!-- stories -->
+			{% endif %}   <!-- cat-match-p -->
+		{% endfor %}  <!-- SSU category -->
+	{% endfor %} <!-- stories -->
 	</div>
-{% endfor %}
 
 
     <div class="row listrecent">

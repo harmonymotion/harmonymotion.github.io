@@ -1,13 +1,13 @@
 ---
 layout: page
-title: All about commissions
+title: Shard-Strike Universe
 permalink: /ssu
-subtitle: Shard-Strike Universe!
+subtitle: MCU for adults!
 ---
 * TOC
 {:toc}
 
-## **What Everyone Knows**
+## What Everyone Knows
 
 In 2018, the world was wracked by a new kind of storm.
 
@@ -30,3 +30,6 @@ It's like the Marvel Cinematic Universe, but for adults!
 
 Here is a public collection of the stories we have written in the Shard-Strike Universe. Commissions are open to take part in this playground! We will incorporate your character into the world meaningfully and include them as the stories continue to unfold!
 
+## Enough already, let me at the stories!
+
+[Check out the SSU!](/library/ssu)
