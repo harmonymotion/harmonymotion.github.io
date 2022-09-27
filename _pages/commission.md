@@ -73,3 +73,6 @@ We charge half upfront and half upon completion.
 
 > Team HarMo did an awesome job on my recent commission!  The writing was high quality, engaging, and realistic, and the art was the cherry on top.  They were timely, communicative, and accommodating for a first-time commissioner like myself.  Looking for a wonderfully talented writer and artist to bring your character(s) to life?  Look no further!
 - viney12
+
+> I am incredibly pleased with the work of Team HarmonyMotion. My outline was considered in depth and excellent suggestions were made during the early stages to ensure that the story worked as well as possible from the outset. My views were taken into account at every stage of both the writing and rendering process, allowing minor adjustments to be made and accommodated. The personal interest that the Team took in the story and characters delivered a tale that more than exceeded my wishes, along with artwork that brings me great joy. Team HarmonyMotion fully understood what I wanted and hit the mark on every aspect of it. The Team were a pleasure to work with and I will absolutely be doing so again. 
+- Wizalex
