@@ -4,6 +4,8 @@ title: My Gumroad store!
 permalink: /store
 subtitle: Premium stories and art
 ---
+* TOC
+{:toc}
 
 # Premium stories and art
 
