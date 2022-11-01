@@ -3,7 +3,7 @@ layout: post
 title: Patreon August roadmap
 subtitle:
 image: portfolio/generics/ssu.png
-featured: true
+featured: false
 description: Patreon for August
 tags: []
 ---
