@@ -1,22 +1,16 @@
 ---
-layout: post
-title: Swan Girls
-subtitle:
-image: portfolio/gallery/Swan-Girls.png
+layout: story
+title: "Swan Girls"
+categories: [ Superpowers ]
+tags: [super strength, super speed, flight, heat vision, superbreath, beautydom ]
+cover: /portfolio/gallery/Swan-Girls.png
+blurb: "Coral Connors-Swan receives a gift from her estranged mother on her 19th birthday."
 featured: true
-description: Patreon exclusive story status and update!
-tags: [Swan Girls]
+hidden: false
+client: "Au Goose"
+publication-date: "2022-11-09"
+output: true
 ---
-
-This is the first entry of a new story starting on my Patreon. This chapter is posted in its entirety. 6 pieces of art available to patrons, and all future chapters will be behind my Patreon!
-
-As of June 19, 28,000 words deep, 29 images and counting!
-
-Swan Girls  
-Written by HarmonyMotion with Au Goose  
-Edited by Au Goose
-
-Commissioned by Au Goose
 
 ## Happy Birthday, Coral
 
@@ -157,3 +151,7 @@ Coral’s fingers drifted in between her honeypot, gathering up her thick nectar
 Dexterous beyond belief, Coral continued to increase the pleasure of both parties as she simultaneously sucked a desperate, overworked Matthew while fondling her vibrating nipples and plugging her long fingers into her vice-like nether lips while still managing to grind her thumb against her agonizingly sensitive clit. The wall of the pool began to come apart from the clenched twitching of her slender legs. The waves continued to splash violently, growing in intensity as a reflection of her first superhuman tryst.
 
 As the sun continued to set, the entire pool began to rumble. An uncontrollable, fiery pleasure was building deep in Coral’s womb, and it would not be contained much longer. Her body began to rise out of the water, sliding her breasts up Mathew’s chest before depositing her thoroughly drained buddy on the jagged edge of the pool. Ripping tiles apart as she kicked her legs out of it, her horizontal outline began to tremble so quickly that she became a blur. A blur driven by the soundless tornado of ecstasy, pent up and swirling inside of the nineteen year old’s divine body. A body floating out of the pool and rising into the sky, a blue crystal pendant still resting between her breasts…
+
+*The whole story is available for purchase here!* 
+https://harmonymotion.gumroad.com/l/ipxes
+
