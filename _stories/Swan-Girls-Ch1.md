@@ -152,6 +152,5 @@ Dexterous beyond belief, Coral continued to increase the pleasure of both partie
 
 As the sun continued to set, the entire pool began to rumble. An uncontrollable, fiery pleasure was building deep in Coral’s womb, and it would not be contained much longer. Her body began to rise out of the water, sliding her breasts up Mathew’s chest before depositing her thoroughly drained buddy on the jagged edge of the pool. Ripping tiles apart as she kicked her legs out of it, her horizontal outline began to tremble so quickly that she became a blur. A blur driven by the soundless tornado of ecstasy, pent up and swirling inside of the nineteen year old’s divine body. A body floating out of the pool and rising into the sky, a blue crystal pendant still resting between her breasts…
 
-*The whole story is available for purchase here!* 
-https://harmonymotion.gumroad.com/l/ipxes
+*The whole story is available for purchase [here](https://harmonymotion.gumroad.com/l/ipxes)!* 
 
