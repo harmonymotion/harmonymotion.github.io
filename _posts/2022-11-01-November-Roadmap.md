@@ -3,7 +3,7 @@ layout: post
 title: Patreon November roadmap
 subtitle:
 image: portfolio/generics/ssu.png
-featured: true
+featured: false
 description: Patreon for November
 tags: []
 ---
