@@ -12,8 +12,6 @@ publication-date: "2023-02-21"
 output: true
 ---
 
-## Stolen Opportunity
-
 ## Super Watch Blog, Mar 15
 
 
