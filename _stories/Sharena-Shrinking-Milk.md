@@ -2,16 +2,18 @@
 layout: story
 title: "Sharena's Shrinking Milk"
 categories: [ Giantess ]
-tags: [ giantess, orgasm denial, femdom, shrinking ]
-cover: /portfolio/generics/boobs.png
-blurb: "Sharena's milk is highly addicting and has a particularly pleasing side effect. But not for her unlucky little victims..."
+tags: [ omni, f2ftf, orgasm denial, femdom, ascension, beautydom ]
+cover: /portfolio/generics/giantess.png
+blurb: "Sharena's tits are special. And not because of how torso-coveringly enormous they are..."
 featured: false
 hidden: false
 client: "anonymous"
-publication-date: "2023-01-11"
+publication-date: "2023-04-02"
 output: true
 ---
 
+* TOC
+{:toc}
 
 ## Chapter 1 - Playing with Her Daughter’s Shrunken Boyfriend
 
@@ -241,7 +243,7 @@ Still, as she lay back down and watched him work, an evil little thought just sn
 
 “It would be so much fun...” it whispered in her ear. Sharena’s brow twitched as she gushed at the thought. “Make him beg for it. It’s not mean if he _wants_ to suck on your tits, drink us down, worship us and become ours forever. It’s not mean if he _wants_ to be your micrometer trophy of total domination...”
 
-Sharena’s lips went slack at the thought of it. She looked at MarkPablo again. His face was a mask of pure awe as he stared at her taut, jutting, thrumming, and perfectly spherical, perfectly symmetrical breasts.
+Sharena’s lips went slack at the thought of it. She looked at Mark again. His face was a mask of pure awe as he stared at her taut, jutting, thrumming, and perfectly spherical, perfectly symmetrical breasts.
 
 “See?” The devil in her milk continued its sinful temptation. “He wants it so badly. Just imagine that huge cock of his, all hard for you, violently jerking back and forth. You’d be doing him a favor by shrinking it down to the size of your pinky, wouldn’t you?”
 
@@ -433,4 +435,3 @@ Dinah sighed. Despite all that, she was nothing compared to her mother. Why, if 
 As she fretted over her already stunning development, she felt a strange, rumbling sensation in her breasts. They were suddenly so sensitive, so heavy! Heavier than they already weighed. It felt as if her nipples were being tickled from the inside! A deep, sloshing sound echoed inside of her body. But it definitely wasn’t her belly. No, it was higher than that...
 
 Dinah reached underneath each perfect orb and hefted. The tops of her flesh sloshed and rippled as a thick stream of milk jetted out from both of her teats...
-
