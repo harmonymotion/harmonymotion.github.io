@@ -3,7 +3,7 @@ layout: post
 title: Ryan Reyes and the Case of Lydia Meyers
 subtitle:
 image: portfolio/generics/ssu.png
-featured: true
+featured: false
 description: Free book!
 tags: []
 ---

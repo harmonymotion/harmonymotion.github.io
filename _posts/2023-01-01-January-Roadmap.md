@@ -3,7 +3,7 @@ layout: post
 title: January Roadmap
 subtitle: Patreon
 image: portfolio/generics/ssu.png
-featured: true
+featured: false
 description: Patreon roadmap for January
 tags: [roadmap]
 ---

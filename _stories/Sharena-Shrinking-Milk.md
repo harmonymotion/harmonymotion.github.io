@@ -3,7 +3,7 @@ layout: story
 title: "Sharena's Shrinking Milk"
 categories: [ Giantess ]
 tags: [ omni, f2ftf, orgasm denial, femdom, ascension, beautydom ]
-cover: /portfolio/generics/giantess.png
+cover: /portfolio/generics/gts.png
 blurb: "Sharena's tits are special. And not because of how torso-coveringly enormous they are..."
 featured: false
 hidden: false
